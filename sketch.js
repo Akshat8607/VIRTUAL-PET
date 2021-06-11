@@ -1,9 +1,9 @@
 var dogImg, happyDogImg, dog, database, foodS, foodStock, canvas, lastFed, fedTime, foodObj, feed, addFood, food1, foodCount, input, milk, milkImg;
 
 function preload() {
-  dogImg = loadImage('images/Dog.png');
-  happyDogImg = loadImage('images/dogImg1.png');
-  milkImg = loadImage('images/Milk.png');
+  dogImg = loadImage('Dog.png');
+  happyDogImg = loadImage('dogImg1.png');
+  milkImg = loadImage('Milk.png');
 }
 
 function setup() {
